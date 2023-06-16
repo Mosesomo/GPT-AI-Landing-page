@@ -1,8 +1,8 @@
 
 const Brand = () => {
   return (
-    <div className="bg-gradient-to-b from-blue-700 via-blue-800 to-gray-900  px-9 w-[100%] flex justify-center items-center">
-      <div>
+    <div className="w-[100%] flex justify-center items-center p-10">
+      <div className="bg-gradient-to-b from-blue-700 via-blue-800 to-gray-900 w-[100%] rounded-md">
         <div className="lg:flex justify-between items-center p-7">
           <div className="md:mb-5 sm:mb-5">
             <h1 className="text-2xl font-bold">What is GPT-3</h1>

@@ -4,6 +4,9 @@ import Hero from "./components/Hero"
 import Navigation from "./components/Navigation"
 import Article from "./components/Article"
 import Possibility from "./components/possibility"
+import Register from "./components/Register"
+import Blog from "./components/Blog"
+import Footer from "./components/Footer"
 
 
 
@@ -16,6 +19,9 @@ const App = () => {
         <Brand />
         <Article />
         <Possibility />
+        <Register />
+        <Blog />
+        <Footer />
     </div>
   )
 }
